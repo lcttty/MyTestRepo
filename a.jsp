@@ -1,1 +1,1 @@
-<%= application.getServerInfo() %> 
+$action.getText("found"): $jdkName
